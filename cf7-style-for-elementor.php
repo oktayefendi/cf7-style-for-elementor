@@ -27,3 +27,5 @@ function goatcf7_addon_register_widgets($widgets_manager) {
 
 
 add_action( 'elementor/widgets/register', 'goatcf7_addon_register_widgets' );
+
+
