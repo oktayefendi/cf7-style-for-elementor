@@ -1,6 +1,6 @@
 === GOAT Contact Form 7 Style for Elementor ===
 Contributors: GOAT
-Tags: elementor, contact form 7, styling, customization, design options, form styling, contact form design, cf7 styling
+Tags: elementor, contact form 7, styling, customization, elementor, form styling, contact form design, cf7 styling
 Requires at least: 4.0
 Tested up to: 6.1.1
 Requires PHP: 7.0

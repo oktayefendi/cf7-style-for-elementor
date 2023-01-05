@@ -21,7 +21,7 @@ function goatcf7_addon_register_widgets($widgets_manager) {
   // Include the widget file
   require_once( __DIR__ . '/widgets/cf7-form.php' );
 
-  $widgets_manager->register( new \Goat_CF7_FormStyle() );
+  $widgets_manager->register( new \Goat_Elementor_CF7_Addon_Widget() );
 
 }
 
